@@ -16,13 +16,15 @@ flowchart TD
 ```mermaid
 gantt
 dateFormat  YYYY-MM-DD
-title Adding GANTT diagram to mermaid
-excludes weekdays 2014-01-10
+title ASOS Tech Podcast 🎙
+excludes weekdays 
 
-section A section
-Completed task            :done,    des1, 2014-01-06,2014-01-08
-Active task               :active,  des2, 2014-01-09, 3d
-Future task               :         des3, after des2, 5d
-Future task2               :         des4, after des3, 5d
+section M1 Discovery 
+Establish community         :done,    des1, 2021-09-01,2021-10-01
+Define working group        :done,    des2, 2021-09-01,2021-12-01
+Produce pilot               :done,    des3, 2021-10-01,2021-12-01
+Sign off pilot              :done,    des4, after des2,2022-01-01
+Plan schedule               :         des5, after des4, 2022-03-01
+Source equipment and tools  :         des6, after des4, 2022-03-01
 ```
 
