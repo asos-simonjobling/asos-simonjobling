@@ -5,7 +5,7 @@ A flowchart [using Mermaid support in Markdown files](https://github.blog/2022-0
 ```mermaid
 flowchart TD
   A[Deploy to production] --> B{Is it Friday?};
-  B -- Yes --> C[Do not deploy!];
+  B -- Yes --> C[Run deploy.sh to deploy! We have robust systems and Friday is just another day!];
   B -- No --> D[Run deploy.sh to deploy!];
   C ----> E[Enjoy your weekend];
   D ----> E[Enjoy your weekend];
