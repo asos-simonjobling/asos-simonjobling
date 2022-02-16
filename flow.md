@@ -1,6 +1,6 @@
 # What is this?
 
-A flowchart [using Mermaid support in Markdown files](https://github.blog/2022-02-14-include-diagrams-markdown-files-mermaid/)
+A flowchart [using Mermaid support in Markdown files](https://github.blog/2022-02-14-include-diagrams-markdown-files-mermaid/) (h/t/ to [Lewis](https://github.com/asos-lewisjackson) for the pointer)
 
 ```mermaid
 flowchart TD
