@@ -1,9 +1,8 @@
-### Hi there 👋
-
 <!--
 **asos-simonjobling/asos-simonjobling** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-## TL;DR
+
+### Who am I?
 
 - 👋 Hi, I’m **Si Jobling** (he/him) – Engineering Manager in _FORDS_ (Order Management, Delivery & Returns and Stock & Fulfilment)
 - 👀 I’m interested in tech, servant-leadership and personal development
