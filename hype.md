@@ -11,6 +11,7 @@ A convenient place to capture regular highlights (typically on a weekly cadence 
 - Artemis started using PETALS regularly as part of Tuesday retros (May 2022)
 - Initiated mini EM community and regular check-ins with Jen and Adrian for sharing and helping each other (June 2022)
 - Ares introduced PETALS to retrospectives (June 2022)
+- Owain says "Char loves you by the way" - at least the feeling is mutual (29 Jun 2022)
 
 ## Organisation 🏢
 
