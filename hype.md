@@ -15,6 +15,7 @@ A convenient place to capture regular highlights (typically on a weekly cadence 
 ## Organisation 🏢
 
 - Teased Engineering Update with ASOS Tech Podcast Season 1 launch (23 Jun 2022)
+- Shout out from [Sarah Timmins](https://www.linkedin.com/posts/sarah-timmins-product-person_why-everyone-should-be-a-trainer-activity-6947913051765399554-nb1M?utm_source=linkedin_share&utm_medium=member_desktop_web) for helping with her Tech Blog about training (30 Jun 2022)
 
 ## Personal 
 
