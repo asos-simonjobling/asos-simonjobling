@@ -17,6 +17,7 @@ A convenient place to capture regular highlights (typically on a weekly cadence 
 - 23 Jun 2022 - Teased Engineering Update with ASOS Tech Podcast Season 1 launch
 - 30 Jun 2022 - Shout out from [Sarah Timmins](https://www.linkedin.com/posts/sarah-timmins-product-person_why-everyone-should-be-a-trainer-activity-6947913051765399554-nb1M?utm_source=linkedin_share&utm_medium=member_desktop_web) for helping with her Tech Blog about training
 - 13 Jul 2022 - Released first episode (Open Source @ ASOS) on [Pinecast with custom subdomain](http://techpodcast.asos.com)
+- 14 Jul 2022 - Credit from [Scott Mathers](https://www.linkedin.com/feed/update/urn:li:share:6953284889714565121?utm_source=linkedin_share&utm_medium=member_desktop_share&utm_content=post) for his Process Mining blog post
 - 14 Jul 2022 - Submitted ASOS Tech Podcast to Pocket Casts for testing feed and early feedback
 
 ## Personal 
