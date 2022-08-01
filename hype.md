@@ -5,6 +5,7 @@ A convenient place to capture regular highlights (typically on a weekly cadence 
 ## Individuals 👤
 
 - Created standard welcome pack for all new-starters, tested on Spartans and rolled out to Jen for D&R hires
+- 29 Jul 2022 - Confirmed another SE, Kieran to join Doug and Loukas in Maggi 
 
 ## Teams 👥
 
@@ -19,7 +20,9 @@ A convenient place to capture regular highlights (typically on a weekly cadence 
 - 13 Jul 2022 - Released first episode (Open Source @ ASOS) on [Pinecast with custom subdomain](http://techpodcast.asos.com)
 - 14 Jul 2022 - Credit from [Scott Mathers](https://www.linkedin.com/feed/update/urn:li:share:6953284889714565121?utm_source=linkedin_share&utm_medium=member_desktop_share&utm_content=post) for his Process Mining blog post
 - 14 Jul 2022 - Submitted ASOS Tech Podcast to Pocket Casts for testing feed and early feedback
+- 29 Jul 2022 - Second episode of podcast released, now available in all popular platforms with some organise social shares from externals
 
 ## Personal 
 
 - Started delegating opportunities to team-mates and peers rather than owning actions all the time, e.g Adrian on Tech Pod Eng Update announcement, Lewis H and Ed C on Tech Pod production
+- Provided all 18 engineers a new template to prepare for EOY reviews, putting emphasis on their prep with my (prepared and live) input 
