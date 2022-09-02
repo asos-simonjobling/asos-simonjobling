@@ -76,8 +76,17 @@ _Provide a year end summary of your performance against your objectives that you
 Start the coaching apprenticeship - non-starter
 
 ### Day Job
-Also reflect on your overall performance in terms of what you have achieved in your role day to day. Make note of what you have delivered in addition to your objectives:
+_Also reflect on your overall performance in terms of what you have achieved in your role day to day. Make note of what you have delivered in addition to your objectives:_
 
+Objectives aside and going through all the EM Competency matrix, I think I'm doing the a good job as an EM. I focus on the my individual direct reports as a priority, attempt to be available and support the the teams, plus work across Tech with other EM's and PSE's to drive improvements.
+
+I'm mindful of priorities and adjust accordingly, sometimes at the detriment of my own development and capacity. 
+
+All the engineers I manage have seen personal improvements with significant promotions recognised where possible (either at mid-points or in-role).
+
+Teams are mostly mature in delivery and operations with little resistance and minimal support from myself.
+
+I've found suitable relationships and dynamics with all my peers (PLs and LSEs) to support our teams. 
 
 
 ### Being ASOS
@@ -94,4 +103,4 @@ The fact PX have asked me to be one of the faces for our Tech Value Proposition 
 ### Individual development
 _Earlier in the year we also asked you to think about your individual development. Describe what you have done to work towards or achieve your individual development goal(s):_
 
-
+This is what I've neglected and should possibly look for extra capacity in the next mid-year. Coaching has been a slow/non-starter but I need to build on confidence to push back, say no/not yet more and challenge status quo in larger remits (e.g. PX/Tech processes)
