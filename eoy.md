@@ -78,10 +78,20 @@ Start the coaching apprenticeship - non-starter
 ### Day Job
 Also reflect on your overall performance in terms of what you have achieved in your role day to day. Make note of what you have delivered in addition to your objectives:
 
+
+
 ### Being ASOS
-After describing "what" results were achieved, explain "how" those results were achieved. Reflect on our [Being ASOS](https://asos.looop.co/workspace/8538) behaviours and [ASOS ABCD values](https://asos.looop.co/topic/70314) and consider how you have demonstrated these results:
+_After describing "what" results were achieved, explain "how" those results were achieved. Reflect on our [Being ASOS](https://asos.looop.co/workspace/8538) behaviours and [ASOS ABCD values](https://asos.looop.co/topic/70314) and consider how you have demonstrated these results:_
+
+Much of the feedback from peers and direct reports suggest I'm demonstrating all our ASOS values and behaviours on a daily basis.
+
+I think the podcast is a great example of the ABCDs - genuinely pushing everything about myself and people around me, putting myself and others in challenging situations (publicly and internally), working creatively to make it sound and look the best and delivering within timelines against so many challenges.
+
+All my direct reports suggest I am genuinely empathetic and approachable, leading by example, bringing people with me on the journey.
+
+The fact PX have asked me to be one of the faces for our Tech Value Proposition says a lot; as a leader in our tech community, boomerang and development journey over the past 9 years. 
 
 ### Individual development
-Earlier in the year we also asked you to think about your individual development. Describe what you have done to work towards or achieve your individual development goal(s):
+_Earlier in the year we also asked you to think about your individual development. Describe what you have done to work towards or achieve your individual development goal(s):_
 
 
