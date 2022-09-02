@@ -44,7 +44,36 @@ There will be a Workday self evaluation feedback form - please fill out when it 
 ### Objectives
 _Provide a year end summary of your performance against your objectives that you and your manager agreed earlier in the year. Specifically, provide detail about "what" results were achieved:_
 
+**A: Engineer Growth**
 
+1. Realistic structured objectives using standard OKR format - disappointed this didn't work out, mixed reasons, failed to influence change and hold individuals accountable to their own objectives
+2. Engineer's personal stretch goals (career, skills, passions) defined with actionable objective to support - some engineers identified stretch goals (such as public speaking with Sertan and Devesh, Georgia working in different team, Harry mentoring, Sarah recording a podcast)
+3. Setup "brag/hype" docs for regular feedback (speedback) directly between engineers to support & adjust objectives - a handful of engineers (Spartans, Harry, Nick, Ryan) have started contributing reglarly to this after demonstrating my own
+4. Enable more FORDS engineers to demonstrate skills and passions to internal ASOS audiences through Lightning Talks, FORDS Eng Monthly and Tech Develops - most Lightning Talks are hosted by FORDS engineers, Eng Monthly has been described by Lewis J as "best meeting of the month" due to range of speakers, Sertan & Seb running Tech Dev on IOT devices
+
+**B: Vibe**
+
+5. Improve response rate for next Vibe feedback from 75% - we did with 85%. Results from latest round suggested most areas were already covered in wider pieces but those within remit haven't gained traction.
+
+**C: Team Health**
+
+6. Introduce PETALS framework to all FORDS teams in OM, D&R, S&F - Artemis adopted and made it weekly, Ares & Apollo tried once, Kallo tried a couple times then adopted their own
+7. Establish regular cadence recording and observing results for all FORDS teams - only Kallo and Artemis have adopted a form of it
+
+**D: Tech Brand**
+
+8. Consistently regular cadence of Tech Blog content from diverse ASOS tech talent in a streamlined process - established a close community of blog editors to encourage and release regular content, now on a (twice) monthly cadence and pipeline to expedite urgent content (NI recruitment piece)
+9. Regular Tech Podcast content released from diverse ASOS talent with variety of internal hosts and guests - released in July after months of planning, producing and approving, fortnightly cadence established (albeit August hurdle of music licence), with plan for Season 2 in 2023
+
+**E: Recruitment**
+
+10. Execution of FTE hiring plan - filled all prioritised open headcount by EOY with external candidates and internal promotions
+
+**F: Personal Growth**
+
+11. Understand and practice some coaching principles - explored training programmes but lacked capacity or shared commitment. Joined EM Coaching group with only 1 successful session with Jon Taylor
+12. Identify and agree coaching opportunities within direct reports or peers - nope
+Start the coaching apprenticeship - non-starter
 
 ### Day Job
 Also reflect on your overall performance in terms of what you have achieved in your role day to day. Make note of what you have delivered in addition to your objectives:
