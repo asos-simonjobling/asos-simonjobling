@@ -35,12 +35,12 @@
 
 1. Based on the last 6 months, and peer feedback, what do you want to achieve or focus on, what’re you looking forward to over the next 6 months
 
-Team metrics - identify and improve priority areas for all five teams
-Option to focus on one platform with additional EM?
-Level up the podcast to be market leading, not just the standard (stand out content formats, recognition from industry)
-Step back but provide support to other initiatives
-Understand career options following new levels - where to focus next, realistic timelines
-Still two minds about coaching - more the commitment on the apprenticeship scheme than anything else
+- Team metrics - identify and improve priority areas for all five teams
+- Option to focus on one platform with additional EM?
+- Level up the podcast to be market leading, not just the standard (stand out content formats, recognition from industry)
+- Step back but provide support to other initiatives
+- Understand career options following new levels - where to focus next, realistic timelines
+- Still two minds about coaching programme - more the commitment on the apprenticeship scheme than anything the act of coaching
 
 2. Is there anything you’re not looking forward to?
 
