@@ -5,29 +5,29 @@
 ### Who am I?
 
 👋 
-Hi, I’m **Si Jobling** (he/him) – Engineering Manager in _Digital Platforms_ for Order Management and Stock & Fulfilment
+Hi, I’m **Si Jobling** (he/him) – Engineering Manager in _Digital Coe Services_ including Customer Profile & Identity, Delivery & Returns, Order Management and Stock & Fulfilment
  
 👀 
 I’m interested in tech, servant-leadership and continuous personal development
 
 
 🔭
-I’m currently working on a tech podcast showcasing the talent and tools we have at ASOS
+I’m currently working on integrating [my PETALS framework](https://petals.team) into [ASOS Team Designer](https://team-designer.asosdevelopment.com/)
 
 🌱
-I’m currently learning about OKR's 
+I’m currently learning about .NET v6 MVC
 
 💞️
-I’m looking to collaborate on Tech Blog & Podcast
+I’m looking to collaborate on Team Designer
 
 🤔
-I’m looking for help with coaching
+I’m looking for help with .NET engineering
 
 💬
-Ask me about Speedback sessions for faster professional feedback, measuring team happiness with PETALS and neurodiversity in Tech
+Ask me about PETALS for improving team health
 
 📫
-Also available on [Github](https://github.com/si) and [Twitter](https://twitter.com/si) as `@si`
+Also available on [Github](https://github.com/si), [Mastodon](https://managingengineers.net/@Si) and [Twitter](https://twitter.com/si) as `@si`
 
 ⚡
 Fun fact: father to two neurodivergent super-heroes, learning the hard way how to champion their strengths and handle their challenges 🦸🦸‍♀️
