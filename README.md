@@ -5,7 +5,7 @@
 ### Who am I?
 
 👋 
-Hi, I’m **Si Jobling** (he/him) – Engineering Manager in _Digital Coe Services_ including Customer Profile & Identity, Delivery & Returns, Order Management and Stock & Fulfilment
+Hi, I’m **Si Jobling** (he/him) – Engineering Manager in _Digital Core Services_ including Customer Profile & Identity, Delivery & Returns, Order Management and Stock & Fulfilment
  
 👀 
 I’m interested in tech, servant-leadership and continuous personal development
